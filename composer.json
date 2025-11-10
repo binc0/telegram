@@ -1,0 +1,11 @@
+{
+    "name": "lhc/telegram-extension",
+    "description": "Live Helper Chat Telegram Bot Extension",
+    "type": "library",
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=7.1",
+        "guzzlehttp/guzzle": "^6.5|^7.0",
+        "longman/telegram-bot": "^0.77"
+    }
+}
