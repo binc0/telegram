@@ -1,2 +1,4 @@
 composer.phar
 settings/settings.ini.php
+/vendor/
+composer.lock
