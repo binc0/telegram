@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "require": {
         "php": ">=7.1",
-        "guzzlehttp/guzzle": "^6.5",
-        "longman/telegram-bot": "^0.76"
+        "guzzlehttp/guzzle": "^6.5|^7.0",
+        "longman/telegram-bot": "^0.77"
     }
 }
